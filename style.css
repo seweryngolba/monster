@@ -25,6 +25,10 @@ nav {
   background: #ffffff;
 }
 
+header {
+  height: 80vh;
+}
+
 .landing {
   display: flex;
   align-items: center;
